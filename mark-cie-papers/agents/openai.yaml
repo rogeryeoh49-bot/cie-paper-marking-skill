@@ -1,0 +1,4 @@
+interface:
+  display_name: "CIE 试卷批改"
+  short_description: "查找对应评分标准，按各科题型批改作答并用所需语言讲解"
+  default_prompt: "使用 $mark-cie-papers 查找这份 CIE 试卷的评分标准，逐题核对我的作答、给分，并按我要求的语言解释错误与改法。"
