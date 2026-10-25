@@ -1,4 +1,0 @@
-interface:
-  display_name: "CIE 数学批卷"
-  short_description: "按卷号寻找评分标准，逐题核对手写过程、给分并讲解改法"
-  default_prompt: "使用 $mark-cie-maths 找到这份试卷的 Mark Scheme，逐小题核对我的手写作答，说明得分、错误与改法。"
